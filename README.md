@@ -1,4 +1,7 @@
 # setup-linux
+
+
+
 ### Github:
 - Logar no browser
 - git config --global user.name "Your Name Here"
@@ -18,4 +21,8 @@
  - Gerenciador de Extensões
 
 ### Gerenciador de Extensões
- - 
+ - Dash to Dock
+ - Caffeine
+ - Vitals
+ - User Themes
+ - App Icons Taskbar
