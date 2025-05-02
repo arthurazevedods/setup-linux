@@ -6,7 +6,16 @@
 - git config -l
 - git clone https://github.com/arthurazevedods/setup-linux
 
-VSCode: instalações das extenções do:
+### VSCode: instalações das extenções do:
  - Go
  - Python
  - Node
+
+### Configurações
+ - Configurações > Som > Som de Alerta > Nenhum
+
+### Programas
+ - Gerenciador de Extensões
+
+### Gerenciador de Extensões
+ - 
