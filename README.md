@@ -1,6 +1,13 @@
 # setup-linux
 
-
+## run setup_env.sh
+    - wget https://raw.githubusercontent.com/arthurazevedods/setup-linux/main/setup_env.sh -O setup_env.sh
+    - chmod +x setup_env.sh
+    - ./setup_env.sh
+## run setup.sh
+    - wget https://raw.githubusercontent.com/arthurazevedods/setup-linux/main/setup.sh -O setup.sh
+    - chmod +x setup.sh
+    - ./setup.sh
 
 ### Github:
 - Logar no browser
@@ -13,7 +20,6 @@
  - Go
  - Python
  - Node
- - & Keyboards  Shortcuts > View: Toggle Terminal > Keybinding > Ctrl + '
 
 ### Configurações
  - Configurações > Som > Som de Alerta > Nenhum
