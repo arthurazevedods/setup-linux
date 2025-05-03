@@ -13,6 +13,7 @@
  - Go
  - Python
  - Node
+ - & Keyboards  Shortcuts > View: Toggle Terminal > Keybinding > Ctrl + '
 
 ### Configurações
  - Configurações > Som > Som de Alerta > Nenhum
