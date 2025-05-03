@@ -32,7 +32,12 @@ sudo dnf install -y \
     golang \
     lua \
 
+#Instalando o Insomnia
 sudo dnf install insomnia
+
+# Instalando o docker
+sudo dnf config-manager addrepo --from-repofile="https://download.docker.com/linux/fedora/docker-ce.repo"
+sudo dnf install -y docker-ce docker-ce-cli container.io
 
 # Limpar cache
 echo "Limpando cache..."
